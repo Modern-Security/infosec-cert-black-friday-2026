@@ -254,6 +254,17 @@ deals:
     notes: "Not mentioned on the vendor site; course page and checkout show $297 before a code is applied. Unconfirmed — check at checkout (community lists say ends Dec 6)."
     last_checked: 2026-11-16
 
+  - vendor: Hexordia
+    category: training
+    offer: Hexordia classes (on-demand and virtual live) and class vouchers
+    certs: [HMFA, HDSC, HEWT, HIOT]
+    discount: "35% off"
+    code: 26BF35
+    starts: 2026-11-23
+    ends: 2026-12-07
+    url: https://learn.hexordia.com/s/store
+    source: vendor
+    notes: "Ends 11:59 PM ET on Dec 7."
   - vendor: Wireshark Labs
     category: training
     offer: Hands-on Wireshark packet-analysis labs — WCA Labs (Wireshark Certified Analyst exam prep) and Ranger Lab (real-world troubleshooting and security cases)
