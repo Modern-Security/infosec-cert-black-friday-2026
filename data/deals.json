@@ -193,6 +193,18 @@
     "status": "✅ Live"
   },
   {
+    "vendor": "AppSec.training",
+    "category": "training",
+    "offer": "Application security, DevSecOps and secure SDLC training",
+    "discount": "50% off",
+    "code": "blackfriday",
+    "ends": "2026-12-31",
+    "url": "https://appsec.training",
+    "source": "vendor",
+    "last_checked": "2026-11-19",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "TrainSec",
     "category": "training",
     "offer": "Most individual courses — malware analysis, EDR internals, Windows internals, hardware hacking, detection engineering",
@@ -307,6 +319,26 @@
     "notes": "Not mentioned on the vendor site; course page and checkout show $297 before a code is applied. Unconfirmed — check at checkout (community lists say ends Dec 6).",
     "last_checked": "2026-11-16",
     "status": "✅ Live"
+  },
+  {
+    "vendor": "Hexordia",
+    "category": "training",
+    "offer": "Hexordia classes (on-demand and virtual live) and class vouchers",
+    "certs": [
+      "HMFA",
+      "HDSC",
+      "HEWT",
+      "HIOT"
+    ],
+    "discount": "35% off",
+    "code": "26BF35",
+    "starts": "2026-11-23",
+    "ends": "2026-12-07",
+    "url": "https://learn.hexordia.com/s/store",
+    "source": "vendor",
+    "notes": "Ends 11:59 PM ET on Dec 7.",
+    "last_checked": "2026-11-17",
+    "status": "⏳ Starts Nov 23"
   },
   {
     "vendor": "Wireshark Labs",
