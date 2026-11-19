@@ -265,6 +265,8 @@ deals:
     url: https://learn.hexordia.com/s/store
     source: vendor
     notes: "Ends 11:59 PM ET on Dec 7."
+    last_checked: 2026-11-17
+    
   - vendor: Wireshark Labs
     category: training
     offer: Hands-on Wireshark packet-analysis labs — WCA Labs (Wireshark Certified Analyst exam prep) and Ranger Lab (real-world troubleshooting and security cases)
