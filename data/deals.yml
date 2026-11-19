@@ -281,6 +281,16 @@ deals:
 
   # ─────────────────────────────── Labs & platforms ───────────────────────────────
 
+  - vendor: GenAI Security Lab
+    category: labs
+    offer: Hands-on AI security labs (prompt injection, RAG, agents, MCP) — yearly plan and 4-Month Pass
+    discount: "40% off · yearly $228 → $136.80 · 4-Month Pass $99 → $59.40"
+    ends: 2026-11-30
+    url: https://genaisecuritylab.com/pricing
+    source: vendor
+    notes: "Applied automatically at checkout. Regional prices get the same 40%. Monthly plan and certification exams excluded."
+    last_checked: 2026-11-19
+
   - vendor: LabEx
     category: labs
     offer: LabEx Pro (Linux, cybersecurity, DevOps hands-on labs)
