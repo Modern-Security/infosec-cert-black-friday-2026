@@ -146,6 +146,16 @@ deals:
 
   # ───────────────────────────── Training & courses ─────────────────────────────
 
+  - vendor: AppSec.training
+    category: training
+    offer: Application security, DevSecOps and secure SDLC training
+    discount: "50% off"
+    code: blackfriday
+    ends: 2026-12-31
+    url: https://appsec.training
+    source: vendor
+    last_checked: 2026-11-19
+  
   - vendor: TrainSec
     category: training
     offer: Most individual courses — malware analysis, EDR internals, Windows internals, hardware hacking, detection engineering
