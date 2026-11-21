@@ -339,6 +339,20 @@
     "status": "✅ Live"
   },
   {
+    "vendor": "Invictus Incident Response",
+    "category": "training",
+    "offer": "Invictus Academy cloud incident response training, Standard (labs) and Advanced (labs plus a course) plans",
+    "discount": "20% off your first invoice",
+    "code": "BLACKFRIDAY26",
+    "starts": "2026-11-20",
+    "ends": "2026-12-07",
+    "url": "https://www.invictus-ir.com/academy/plans",
+    "source": "vendor",
+    "notes": "First invoice only: first month on monthly plans, first year on yearly plans. Standard and Advanced plans only, Enterprise excluded. Ends 11:59 PM ET on Dec 7.",
+    "last_checked": "2026-11-20",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "Hexordia",
     "category": "training",
     "offer": "Hexordia classes (on-demand and virtual live) and class vouchers",
