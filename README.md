@@ -20,15 +20,15 @@
 > Prices, codes and dates change without notice. **Always confirm on the vendor's checkout page before you pay.** Spot something wrong or a new deal? [Open an issue](../../issues/new/choose) or send a PR.
 
 <!-- DEALS:START -->
-**20 live** · **3 upcoming** · **17 not announced yet** · 0 expired — _statuses auto-refreshed Nov 21, 2026_
+**21 live** · **3 upcoming** · **17 not announced yet** · 0 expired — _statuses auto-refreshed Nov 21, 2026_
 
 ### ⏰ Ending next
 
 - **[Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/)** · 15% off every cert (e.g. CDP $899 → $764.15), up to $600 off bundles · ends Nov 30, 2026
+- **[SecurityPaths Academy](https://academy.securitypaths.com/courses)** · 25% off — code `blackfriday26` · ends Nov 30, 2026
 - **[TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/)** · 40% off — code `BF2026` · ends Nov 30, 2026
 - **[Blue Cape Security](https://bluecapesecurity.com/training-tracks/)** · $700 off — $2,197 → $1,497 · ends Nov 30, 2026
 - **[Just Hacking Training](https://www.justhacking.com/deals/)** · 25% off — code `BFF25` · ends Nov 30, 2026
-- **[MalDev Academy](https://maldevacademy.com/)** · 25% off — code `BLKFRIDAY25` · ends Nov 30, 2026
 
 ## 🎓 Certifications & Exam Vouchers
 
@@ -40,6 +40,7 @@
 | ✅ Live | **[OffSec](https://www.offsec.com/products/learn-one/)** | Learn One annual subscription (one 200/300-level course + labs + 2 exam attempts)<br><sub>OSCP+, OSEP, OSWE, OSED, OSWA, OSDA, OSTH, OSIR</sub><br><sub>ℹ️ "Level 20" anniversary promo, auto-applied. Ends Jan 4, 23:59 EST. New and existing individual learners only (not org admins). Learn One only — Course + Cert Bundle ($1,749) and CyberCore ($899) are full price.</sub> | $550 off (20%) — $2,749 → $2,199/year | _auto_ | Jan 04, 2027 | ✔️ vendor |
 | ✅ Live | **[Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/)** | All certifications + 2/3-cert bundles (DevSecOps, AI/MCP security, cloud-native, API, threat modelling, supply chain)<br><sub>CDP, CDE, CCSE, CCNSE, CAISP, CMCPSE, CAASE, CTMP, CASP, CSSE, CSC</sub><br><sub>ℹ️ Auto-applied. Ends Nov 30, midnight EST. Buy now and start the course whenever you want.</sub> | 15% off every cert (e.g. CDP $899 → $764.15), up to $600 off bundles | _auto_ | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[RedTeamLeaders](https://courses.redteamleaders.com/catalog)** | Hacking labs and certifications<br><sub>ℹ️ Prices in BRL (R$). End date not published (community lists say Nov 30).</sub> | 50% off | `BLACKFRIDAY50` | — | ✔️ vendor |
+| ✅ Live | **[SecurityPaths Academy](https://academy.securitypaths.com/courses)** | Certified WiFiChallenge Professional (Wi-Fi pentesting) and Certified Recon Professional (recon) courses with exam<br><sub>CWP, CRP</sub><br><sub>ℹ️ Formerly WiFiChallenge Academy. Code auto-applied at checkout. Submitted by a course instructor.</sub> | 25% off | `blackfriday26` | Nov 30, 2026 | ✔️ vendor |
 | ✅ Live | **[The SecOps Group (PentestingExams)](https://pentestingexams.com/offer)** | All pentesting certification exams<br><sub>CAPen, CNPen, C-APIPen, CAPenX, CRTeamerX, C-ADPenX, CCPenX-AWS</sub><br><sub>ℹ️ End date not published.</sub> | 90% off — $330 exams → $33, $528 exams → $53 | `BF-90` | — | ✔️ vendor |
 | ✅ Live | **[VantagePoint](https://vantagepoint.enciphers.com/)** | All hacking labs and certifications<br><sub>ℹ️ No code needed. Vendor doesn't publish an end date (blogs report Nov 30 or Dec 15).</sub> | 70% off | _auto_ | — | ✔️ vendor |
 | ⏳ Starts Nov 27 | **[White Knight Labs](https://training.whiteknightlabs.com/)** | Certification courses, individual Academy classes, 6- and 12-month Academy passes<br><sub>ARTOC, ODPC, OAOTC, ELPT</sub><br><sub>ℹ️ Month-to-month Academy not included. Vendor banner also promises deeper discounts on course bundles and live-training upgrades.</sub> | 50% off | `WKLBLACKFRIDAY26` | Dec 18, 2026 | ✔️ vendor |

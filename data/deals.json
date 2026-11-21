@@ -193,6 +193,24 @@
     "status": "✅ Live"
   },
   {
+    "vendor": "SecurityPaths Academy",
+    "category": "certification",
+    "offer": "Certified WiFiChallenge Professional (Wi-Fi pentesting) and Certified Recon Professional (recon) courses with exam",
+    "certs": [
+      "CWP",
+      "CRP"
+    ],
+    "discount": "25% off",
+    "code": "blackfriday26",
+    "starts": "2026-11-21",
+    "ends": "2026-11-30",
+    "url": "https://academy.securitypaths.com/courses",
+    "source": "vendor",
+    "notes": "Formerly WiFiChallenge Academy. Code auto-applied at checkout. Submitted by a course instructor.",
+    "last_checked": "2026-11-19",
+    "status": "✅ Live"
+  },
+  {
     "vendor": "AppSec.training",
     "category": "training",
     "offer": "Application security, DevSecOps and secure SDLC training",
